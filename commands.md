@@ -5,3 +5,5 @@
 3. `git commit -m "<message>"` - Records staged changes in the repository history.
 4. `git status` - Shows which files are modified, staged, or untracked.
 5. `git log --oneline` - Displays the commit history, one commit per line.
+6. `git branch` - Lists, creates, or deletes branches.
+7. `git push` - Uploads local commits to a remote repository.
